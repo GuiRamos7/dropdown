@@ -1,0 +1,24 @@
+{
+  "travelPlaces": [
+    {
+      "id": 0,
+      "name": "Automobile",
+      "icon:": "🚗"
+    },
+    {
+      "id": 1,
+      "name": "Metro",
+      "icon:": "🚇"
+    },
+    {
+      "id": 2,
+      "name": "Racing Car",
+      "icon:": "🏎️"
+    },
+    {
+      "id": 3,
+      "name": "Bicycle",
+      "icon:": "🚲"
+    }
+  ]
+}
